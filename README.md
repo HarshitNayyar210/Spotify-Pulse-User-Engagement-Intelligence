@@ -35,4 +35,4 @@ This analysis provides actionable strategies for:
 2. Review the dataset in `Spotify Data Project 2.xlsx`
 3. Filter by different dimensions (country, age, subscription type) to explore specific user segments
 
-*Tools: Power BI, DAX, Excel, Power Query*
+*Tools: Power BI, DAX, Excel, Power Query, SQL*
